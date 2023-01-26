@@ -226,7 +226,7 @@ footer svg{
     margin-right:15px ;
 }
 
-@media screen and (max-width: 1040px) {
+@media screen and (max-width: 800px) {
     .container-content{
         width: 100%;
     }
